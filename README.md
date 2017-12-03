@@ -1,0 +1,3 @@
+# ofFireworks
+
+openFrameworksで作った花火をモチーフにしたパーティクルアニメーション
